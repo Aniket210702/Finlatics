@@ -1,0 +1,29 @@
+Serial No.,States,No of Hotels,No. of types of climatic conditions,,
+1,Andhra Pradesh,34000,2,,
+2,Arunachal Pradesh,5000,2,,
+3,Assam,25000,1,Arunachal Pradesh,5000
+4,Bihar,4000,1,Manipur,3000
+5,Chhattisgarh,25000,2,Meghalaya,2000
+6,Goa,44000,1,Mizoram,1000
+7,Gujarat,107000,3,Nagaland,1000
+8,Haryana,48000,3,Sikkim,12000
+9,Himachal Pradesh,83000,3,Tripura,1000
+10,Jharkhand,4000,2,West Bengal,87000
+11,Karnataka,40000,3,,
+12,Kerala,672000,1,,
+13,Madhya Pradesh,14000,3,,
+14,Maharashtra,102000,4,,
+15,Manipur,3000,1,,
+16,Meghalaya,2000,1,,
+17,Mizoram,1000,1,,
+18,Nagaland,1000,1,,
+19,Odisha,20000,2,,
+20,Punjab,11000,3,,
+21,Rajasthan,72000,2,,
+22,Sikkim,12000,1,,
+23,Tamil Nadu,116000,4,,
+24,Telangana,34000,2,,
+25,Tripura,1000,1,,
+26,Uttar Pradesh,58000,2,,
+27,Uttarakhand,50000,2,,
+28,West Bengal,87000,3,,
